@@ -51,3 +51,9 @@ Private Sub Worksheet_SelectionChange(ByVal Target As Range)
         End With
     End If
 End Sub
+
+---
+## 📸 Screenshot
+Below shows the row highlight effect:
+
+![Example Highlight](screenshot.PNG)
