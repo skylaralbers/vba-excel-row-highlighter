@@ -15,4 +15,5 @@ The highlight persists even after clicking away from the sheet.
 ## 📸 Screenshot
 Below shows the row highlight effect:
 
-![Example Highlight](screenshot.png)
+![Example Highlight](screenshot.PNG)
+
