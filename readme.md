@@ -8,7 +8,7 @@ This macro is especially useful when you’re entering or referencing data acros
 It prevents losing track of your active row and saves time by keeping your position clearly marked.
 
 ## 📄 File
-**RowHighlighter.bas** — VBA module containing the macro.
+**RowHighlighter.bas** - VBA module containing the macro.
 
 ##  How to Use
 1. In Excel, press `Alt + F11`.
@@ -58,4 +58,5 @@ Private Sub Worksheet_SelectionChange(ByVal Target As Range)
         End With
     End If
 End Sub
+
 
